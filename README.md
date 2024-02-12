@@ -98,6 +98,7 @@ Run:
 
 ## Challenges instructions
 
+- [Azure Blob Trigger](./challenges/Azure%20Blob%20Trigger/README.md)
 - [Develop a shop cart](./challenges/eshop/eshop.md) 
 - [Develop a memory game](./challenges/memorygame/memorygame.md)
 - [Develop a chat based on websockets](./challenges/chatwebsockets/chatwebsockets.md)
