@@ -38,11 +38,26 @@ Environment is already configured to work with Github Codespaces, you can find t
 
 To start programming just start a new codespace and you are ready to go, don't need to install anything.
 
+Click on the Green Code Icon and press "Codespaces", Create a new Codespace by clicking on the '+' or the create on main icon.
+
+### Work with GitHub Desktop
+
+**Installing GitHub Desktop**
+
+https://desktop.github.com/
+
+Clone the Repo and Start Hacking!!
+
 ### Work locally
 
 **VisualStudio Code**
 
 https://code.visualstudio.com/
+
+Open a folder for the project. 
+Open Terminal using `Ctrl + J`, write `git clone` and the repository URL. 
+You can Start Hacking!!
+
 
 **Install Docker**
 
