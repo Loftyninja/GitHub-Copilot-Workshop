@@ -5,7 +5,7 @@
         This dataset tested_worldwide.csv is origin from Kaggle. This dataset, which has the number of tests conducted over time, is important to help making sense of daily reported cases and understanding how COVID-19 is truly spreading in each country.
 
 ## INSTRUCTIONS
-
+/new notebook
         1. Use Copilot Chat to create a new notebook in your project. Use command /newnotebook and name it as "COVID19 Worldwide Testing Data".
         2. Use Copilot and Copilot Chat to develop the exercise and support your learning.
 
